@@ -53,6 +53,10 @@ public struct ZyRegulaRequest {
   public var scenario: Swift.String?
   public var detectGrayScale: Swift.Bool
   public var detectHologram: Swift.Bool
+  public var timeout: Foundation.NSNumber?
+  public var timeoutFromFirstDetect: Foundation.NSNumber?
+  public var timeoutFromFirstDocType: Foundation.NSNumber?
+  public var timeoutLiveness: Foundation.NSNumber?
 }
 public enum ZyOcrResult<T, E> {
   case success(T)
