@@ -1152,116 +1152,6 @@
           },
           {
             "kind": "Var",
-            "name": "timeOutCapturaSeg",
-            "printedName": "timeOutCapturaSeg",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "Foundation.NSNumber?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "NSNumber",
-                    "printedName": "Foundation.NSNumber",
-                    "usr": "c:objc(cs)NSNumber"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvp",
-            "mangledName": "$s21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvp",
-            "moduleName": "zy_lib_regula_ocr_ios",
-            "declAttributes": [
-              "HasInitialValue",
-              "HasStorage",
-              "AccessControl"
-            ],
-            "hasStorage": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Foundation.NSNumber?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "NSNumber",
-                        "printedName": "Foundation.NSNumber",
-                        "usr": "c:objc(cs)NSNumber"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvg",
-                "mangledName": "$s21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvg",
-                "moduleName": "zy_lib_regula_ocr_ios",
-                "implicit": true,
-                "accessorKind": "get"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Set",
-                "printedName": "Set()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Optional",
-                    "printedName": "Foundation.NSNumber?",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "NSNumber",
-                        "printedName": "Foundation.NSNumber",
-                        "usr": "c:objc(cs)NSNumber"
-                      }
-                    ],
-                    "usr": "s:Sq"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvs",
-                "mangledName": "$s21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvs",
-                "moduleName": "zy_lib_regula_ocr_ios",
-                "implicit": true,
-                "accessorKind": "set"
-              },
-              {
-                "kind": "Accessor",
-                "name": "Modify",
-                "printedName": "Modify()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Void",
-                    "printedName": "()"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvM",
-                "mangledName": "$s21zy_lib_regula_ocr_ios15ZyRegulaRequestV17timeOutCapturaSegSo8NSNumberCSgvM",
-                "moduleName": "zy_lib_regula_ocr_ios",
-                "implicit": true,
-                "accessorKind": "_modify"
-              }
-            ]
-          },
-          {
-            "kind": "Var",
             "name": "tintColor",
             "printedName": "tintColor",
             "children": [
@@ -6136,14 +6026,14 @@
     {
       "filePath": "\/Users\/jsaenz\/Documents\/Proyectos\/Regula\/zy_lib_regula_ocr_ios\/zy_lib_regula_ocr_ios\/Classes\/Api\/ZyRegulaRequest.swift",
       "kind": "BooleanLiteral",
-      "offset": 419,
+      "offset": 375,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/jsaenz\/Documents\/Proyectos\/Regula\/zy_lib_regula_ocr_ios\/zy_lib_regula_ocr_ios\/Classes\/Api\/ZyRegulaRequest.swift",
       "kind": "BooleanLiteral",
-      "offset": 463,
+      "offset": 419,
       "length": 5,
       "value": "false"
     }

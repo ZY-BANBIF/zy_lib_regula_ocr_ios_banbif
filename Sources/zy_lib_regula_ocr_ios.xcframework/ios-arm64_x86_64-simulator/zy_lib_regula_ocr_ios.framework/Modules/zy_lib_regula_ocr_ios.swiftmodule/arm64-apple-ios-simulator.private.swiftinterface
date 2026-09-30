@@ -47,7 +47,6 @@ public class ZyRegulaOcr {
 }
 public struct ZyRegulaRequest {
   public init()
-  public var timeOutCapturaSeg: Foundation.NSNumber?
   public var tintColor: Swift.String?
   public var cameraFrameColor: Swift.String?
   public var scenario: Swift.String?
